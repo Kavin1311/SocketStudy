@@ -1,5 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-
+Name:K.Hemanath
+Register No:212223100012
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
